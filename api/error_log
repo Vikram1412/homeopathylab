@@ -1,0 +1,14 @@
+[17-Mar-2023 20:54:54 UTC] PHP Warning:  Undefined array key "password" in /home/homeopat/public_html/api/fetching-data-api.php on line 32
+[17-Mar-2023 20:54:54 UTC] PHP Warning:  Undefined array key "password" in /home/homeopat/public_html/api/fetching-data-api.php on line 32
+[17-Mar-2023 20:57:09 UTC] PHP Warning:  Undefined array key "password" in /home/homeopat/public_html/api/fetching-data-api.php on line 32
+[17-Mar-2023 20:57:09 UTC] PHP Warning:  Undefined array key "password" in /home/homeopat/public_html/api/fetching-data-api.php on line 32
+[17-Mar-2023 21:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 6
+[17-Mar-2023 21:12:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 7
+[17-Mar-2023 21:13:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 6
+[17-Mar-2023 21:13:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 7
+[17-Mar-2023 21:13:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 6
+[17-Mar-2023 21:13:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 7
+[26-Mar-2023 13:30:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 6
+[26-Mar-2023 13:30:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 7
+[26-Mar-2023 13:30:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 6
+[26-Mar-2023 13:30:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/homeopat/public_html/api/insertdata.php on line 7

@@ -1,0 +1,148 @@
+[04-Aug-2022 14:56:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/serverconnect.php on line 7
+[04-Aug-2022 14:56:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/index.php on line 107
+[04-Aug-2022 14:56:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/index.php on line 108
+[04-Aug-2022 15:21:12 UTC] PHP Notice:  Undefined index: description in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/find-medicine.php on line 18
+[04-Aug-2022 15:33:17 UTC] PHP Notice:  Undefined index: description in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/find-medicine.php on line 18
+[05-Aug-2022 07:28:22 UTC] PHP Notice:  Undefined index: description in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/find-medicine.php on line 18
+[05-Aug-2022 07:29:28 UTC] PHP Notice:  Undefined index: description in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/find-medicine.php on line 18
+[05-Aug-2022 11:31:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/simtoms.php on line 14
+[05-Aug-2022 12:10:37 UTC] PHP Notice:  Undefined index: description in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/find-medicine.php on line 18
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 95
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: last_name in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 96
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: Gender in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 97
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: age in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 98
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: email_confirm in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 99
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: phone_number in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 100
+[07-Aug-2022 07:08:47 UTC] PHP Notice:  Undefined index: address in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 101
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 97
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: last_name in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 98
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: Gender in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 99
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: age in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 100
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: email_confirm in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 101
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: phone_number in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 102
+[07-Aug-2022 07:09:59 UTC] PHP Notice:  Undefined index: address in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 103
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 97
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: last_name in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 98
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: Gender in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 99
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: age in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 100
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: email_confirm in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 101
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: phone_number in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 102
+[07-Aug-2022 07:11:11 UTC] PHP Notice:  Undefined index: address in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/personal-info.php on line 103
+[11-Aug-2022 15:36:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/index.php on line 129
+[11-Aug-2022 15:36:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/index.php on line 129
+[11-Aug-2022 15:38:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/Homoeopathy/index.php on line 129
+[03-Mar-2023 07:11:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/Homoeopathy/serverconnect.php on line 7
+[03-Mar-2023 07:11:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:128
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(128): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 128
+[03-Mar-2023 07:11:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/Homoeopathy/serverconnect.php on line 7
+[03-Mar-2023 07:11:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:128
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(128): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 128
+[03-Mar-2023 07:11:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/Homoeopathy/serverconnect.php on line 7
+[03-Mar-2023 07:11:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:128
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(128): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 128
+[03-Mar-2023 07:17:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/Homoeopathy/serverconnect.php on line 7
+[03-Mar-2023 07:17:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:128
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(128): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 128
+[03-Mar-2023 07:39:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:129
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(129): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 129
+[03-Mar-2023 07:39:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:129
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(129): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 129
+[03-Mar-2023 07:41:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/Homoeopathy/index.php:129
+Stack trace:
+#0 /home/homeopat/public_html/lab/Homoeopathy/index.php(129): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/Homoeopathy/index.php on line 129
+[14-Sep-2023 20:55:22 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 20:55:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 20:55:31 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 20:55:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 20:55:45 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 20:55:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 20:55:51 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 20:55:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 20:56:28 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 20:56:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 21:01:08 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 21:01:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 21:01:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 21:01:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 21:06:33 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 21:06:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 21:06:39 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 21:06:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 21:06:44 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 21:06:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[14-Sep-2023 21:07:24 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/Homoeopathy/serverconnect.php on line 7
+[14-Sep-2023 21:07:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php:12
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/subcategory.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/subcategory.php on line 12
+[22-Sep-2023 16:43:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/admin/Homoeopathy/index.php:129
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/index.php(129): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/index.php on line 129
+[23-Sep-2023 17:13:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/admin/Homoeopathy/index.php:129
+Stack trace:
+#0 /home/homeopat/public_html/admin/Homoeopathy/index.php(129): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/Homoeopathy/index.php on line 129

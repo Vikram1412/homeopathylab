@@ -1,0 +1,1381 @@
+[04-Aug-2022 09:26:48 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[04-Aug-2022 09:26:48 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[04-Aug-2022 13:50:10 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[04-Aug-2022 13:50:10 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[04-Aug-2022 14:11:21 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[04-Aug-2022 14:11:21 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[04-Aug-2022 14:41:13 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/medicine_list.php on line 8
+[04-Aug-2022 14:41:15 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[04-Aug-2022 16:17:26 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[04-Aug-2022 16:17:27 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[05-Aug-2022 01:30:04 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/medicine_list.php on line 8
+[05-Aug-2022 01:30:04 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[05-Aug-2022 03:56:06 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/medicine_list.php on line 8
+[05-Aug-2022 03:56:06 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[05-Aug-2022 04:57:05 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[05-Aug-2022 04:57:06 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[05-Aug-2022 05:04:21 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/tamsa/tech.tamsaa.in/test/login.php on line 62
+[05-Aug-2022 05:04:25 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/tamsa/tech.tamsaa.in/test/login.php on line 62
+[05-Aug-2022 08:59:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 26
+[05-Aug-2022 10:26:39 UTC] PHP Parse error:  syntax error, unexpected '$run5' (T_VARIABLE) in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 25
+[05-Aug-2022 10:26:43 UTC] PHP Parse error:  syntax error, unexpected '$run5' (T_VARIABLE) in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 25
+[05-Aug-2022 10:26:59 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[05-Aug-2022 10:27:00 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[05-Aug-2022 10:27:34 UTC] PHP Parse error:  syntax error, unexpected '$run5' (T_VARIABLE) in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 25
+[05-Aug-2022 10:28:37 UTC] PHP Parse error:  syntax error, unexpected '$run5' (T_VARIABLE) in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 25
+[05-Aug-2022 11:03:16 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 8
+[05-Aug-2022 11:03:16 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[05-Aug-2022 11:31:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 156
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:31:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[05-Aug-2022 11:35:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 159
+[06-Aug-2022 02:38:38 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[06-Aug-2022 02:38:39 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[06-Aug-2022 04:23:29 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/medicine_list.php on line 8
+[06-Aug-2022 04:23:30 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[06-Aug-2022 05:19:54 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[06-Aug-2022 05:19:55 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[06-Aug-2022 05:57:23 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[06-Aug-2022 05:57:23 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[07-Aug-2022 02:43:59 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[07-Aug-2022 02:43:59 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[07-Aug-2022 08:43:13 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[07-Aug-2022 08:43:14 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[07-Aug-2022 11:32:13 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[07-Aug-2022 11:32:14 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[07-Aug-2022 12:05:10 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[07-Aug-2022 12:05:10 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[07-Aug-2022 12:05:44 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:07:31 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:09:08 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:09:56 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:20:26 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:40:04 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:40:09 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:40:24 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:40:31 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:47:40 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:51:14 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:52:41 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 12:56:45 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:02:23 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:06:07 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:08:56 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:10:00 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:14:12 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:15:24 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:20:01 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:21:41 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:26:42 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:31:24 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:33:41 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:34:20 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:34:30 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:36:38 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:36:52 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:39:01 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:50:14 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 13:57:59 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 45
+[07-Aug-2022 14:10:52 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 54
+[07-Aug-2022 14:11:24 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 54
+[07-Aug-2022 14:12:14 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 55
+[07-Aug-2022 14:20:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 70
+[07-Aug-2022 14:21:03 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 78
+[07-Aug-2022 14:28:06 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 78
+[07-Aug-2022 14:29:40 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 78
+[07-Aug-2022 14:29:45 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 78
+[07-Aug-2022 14:33:30 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 48
+[07-Aug-2022 14:33:55 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 48
+[07-Aug-2022 14:35:05 UTC] PHP Notice:  Undefined index: first_name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 48
+[07-Aug-2022 14:39:31 UTC] PHP Notice:  Undefined index: name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 48
+[07-Aug-2022 14:39:36 UTC] PHP Notice:  Undefined index: name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 48
+[07-Aug-2022 14:56:02 UTC] PHP Notice:  Undefined index: mid in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 24
+[07-Aug-2022 14:56:51 UTC] PHP Notice:  Undefined index: mid in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 24
+[07-Aug-2022 14:59:53 UTC] PHP Notice:  Undefined index: name in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 73
+[08-Aug-2022 03:15:46 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 03:15:47 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 05:36:50 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 05:36:50 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 08:24:51 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 08:24:51 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 10:16:05 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:16:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:16:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 59
+[08-Aug-2022 10:17:11 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:17:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 59
+[08-Aug-2022 10:17:30 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:17:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 60
+[08-Aug-2022 10:17:33 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:17:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:17:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 60
+[08-Aug-2022 10:18:04 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 10:18:04 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 10:19:04 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:19:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:19:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 60
+[08-Aug-2022 10:21:30 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:21:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 58
+[08-Aug-2022 10:21:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 60
+[08-Aug-2022 10:24:42 UTC] PHP Notice:  Undefined variable: pid in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 54
+[08-Aug-2022 10:24:42 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:24:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:24:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:24:47 UTC] PHP Notice:  Undefined variable: pid in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 54
+[08-Aug-2022 10:24:47 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:24:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:24:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:25:01 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 35
+[08-Aug-2022 10:25:01 UTC] PHP Notice:  Undefined variable: pid in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 54
+[08-Aug-2022 10:25:01 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:25:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:25:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:25:13 UTC] PHP Notice:  Undefined variable: pid in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 54
+[08-Aug-2022 10:25:13 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:25:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:25:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:27:49 UTC] PHP Notice:  Undefined variable: pid in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 54
+[08-Aug-2022 10:27:49 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:27:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:27:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:28:57 UTC] PHP Notice:  Undefined variable: pid in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 54
+[08-Aug-2022 10:28:57 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:28:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 55
+[08-Aug-2022 10:28:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:33:34 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:33:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 57
+[08-Aug-2022 10:33:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 59
+[08-Aug-2022 10:36:41 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 69
+[08-Aug-2022 10:36:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 69
+[08-Aug-2022 10:36:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 71
+[08-Aug-2022 10:38:32 UTC] PHP Notice:  Undefined variable: con in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 69
+[08-Aug-2022 10:38:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 69
+[08-Aug-2022 10:38:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 71
+[08-Aug-2022 10:48:33 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 10:48:33 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 12:21:20 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 12:21:20 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 13:02:43 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 8
+[08-Aug-2022 13:02:43 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 13:03:02 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 13:03:02 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 13:03:14 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[08-Aug-2022 13:03:15 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[08-Aug-2022 22:56:01 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/medicine_list.php on line 8
+[08-Aug-2022 22:56:01 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[09-Aug-2022 02:03:56 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 8
+[09-Aug-2022 02:03:57 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[09-Aug-2022 02:04:16 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 8
+[09-Aug-2022 02:04:17 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[09-Aug-2022 02:11:59 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 6
+[09-Aug-2022 02:12:00 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[09-Aug-2022 12:54:16 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 8
+[09-Aug-2022 12:54:16 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[10-Aug-2022 03:02:22 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 8
+[10-Aug-2022 03:02:22 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[10-Aug-2022 03:18:08 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/find_remdy.php on line 8
+[10-Aug-2022 03:18:09 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[10-Aug-2022 08:52:45 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[10-Aug-2022 08:52:45 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[10-Aug-2022 10:01:51 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[10-Aug-2022 10:01:51 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[10-Aug-2022 13:11:54 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/category.php on line 7
+[10-Aug-2022 13:11:55 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[10-Aug-2022 15:18:35 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[10-Aug-2022 15:18:36 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[11-Aug-2022 08:44:10 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[11-Aug-2022 08:44:10 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[11-Aug-2022 08:58:44 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 8
+[11-Aug-2022 08:58:45 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[11-Aug-2022 13:59:32 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[11-Aug-2022 13:59:32 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[11-Aug-2022 14:34:02 UTC] PHP Parse error:  syntax error, unexpected '$sqlt' (T_VARIABLE) in /home/tamsa/tech.tamsaa.in/test/category.php on line 19
+[11-Aug-2022 14:34:12 UTC] PHP Parse error:  syntax error, unexpected '$sqlt' (T_VARIABLE) in /home/tamsa/tech.tamsaa.in/test/category.php on line 19
+[11-Aug-2022 14:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bit() in /home/tamsa/tech.tamsaa.in/test/category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 17
+[11-Aug-2022 14:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/tamsa/tech.tamsaa.in/test/category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 17
+[11-Aug-2022 14:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/tamsa/tech.tamsaa.in/test/category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 17
+[11-Aug-2022 14:54:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/tamsa/tech.tamsaa.in/test/category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 17
+[11-Aug-2022 14:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home/tamsa/tech.tamsaa.in/test/category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 17
+[11-Aug-2022 15:39:03 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[11-Aug-2022 15:39:04 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[12-Aug-2022 05:55:26 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[12-Aug-2022 05:55:26 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[12-Aug-2022 06:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bval() in /home/tamsa/tech.tamsaa.in/test/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 21
+[12-Aug-2022 06:38:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b() in /home/tamsa/tech.tamsaa.in/test/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 21
+[12-Aug-2022 06:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b() in /home/tamsa/tech.tamsaa.in/test/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 21
+[12-Aug-2022 06:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b() in /home/tamsa/tech.tamsaa.in/test/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 21
+[12-Aug-2022 06:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b() in /home/tamsa/tech.tamsaa.in/test/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 21
+[12-Aug-2022 06:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b() in /home/tamsa/tech.tamsaa.in/test/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tamsa/tech.tamsaa.in/test/category.php on line 21
+[12-Aug-2022 07:46:08 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/subcategory.php on line 8
+[12-Aug-2022 07:46:09 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 01:49:43 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[13-Aug-2022 01:49:44 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 02:15:26 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/invoice.php on line 6
+[13-Aug-2022 02:15:27 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 04:12:14 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/simtoms.php on line 8
+[13-Aug-2022 04:12:14 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 04:15:35 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 8
+[13-Aug-2022 04:15:35 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 15:43:15 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/patient_list.php on line 8
+[13-Aug-2022 15:43:16 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 15:43:40 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[13-Aug-2022 15:43:41 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[13-Aug-2022 23:31:39 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[14-Aug-2022 12:12:44 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[14-Aug-2022 12:12:44 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[14-Aug-2022 12:41:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tamsa/tech.tamsaa.in/test/remedy.php on line 96
+[14-Aug-2022 15:07:53 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[14-Aug-2022 15:07:54 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[14-Aug-2022 15:07:55 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[14-Aug-2022 15:07:55 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[14-Aug-2022 15:12:01 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[14-Aug-2022 15:12:01 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[14-Aug-2022 15:15:29 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[14-Aug-2022 15:15:29 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[15-Aug-2022 01:49:39 UTC] PHP Notice:  Undefined index: id in /home/tamsa/tech.tamsaa.in/test/index.php on line 8
+[15-Aug-2022 01:49:39 UTC] PHP Notice:  Undefined index: login in /home/tamsa/tech.tamsaa.in/test/logout.php on line 3
+[03-Mar-2023 06:54:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:54:13 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[03-Mar-2023 06:54:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/index.php:46
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(46): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 46
+[03-Mar-2023 06:54:13 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[03-Mar-2023 06:54:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:54:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:54:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:55:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:58:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:58:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:59:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 06:59:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:00:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:00:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/login.php:14
+Stack trace:
+#0 /home/homeopat/public_html/lab/login.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/login.php on line 14
+[03-Mar-2023 07:00:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:00:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/login.php:14
+Stack trace:
+#0 /home/homeopat/public_html/lab/login.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/login.php on line 14
+[03-Mar-2023 07:00:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:00:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:11:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:11:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:11:32 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[03-Mar-2023 07:11:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/index.php:46
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(46): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 46
+[03-Mar-2023 07:11:32 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[03-Mar-2023 07:11:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:16:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:16:44 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[03-Mar-2023 07:16:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/lab/index.php:46
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(46): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 46
+[03-Mar-2023 07:16:45 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[03-Mar-2023 07:16:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'homeopat'@'localhost' (using password: YES) in /home/homeopat/public_html/lab/server_connection.php on line 3
+[03-Mar-2023 07:29:59 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[03-Mar-2023 07:29:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:29:59 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[03-Mar-2023 07:30:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:19 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[03-Mar-2023 07:30:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:20 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[03-Mar-2023 07:30:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:30:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:31:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:31:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:41 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:45 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:31:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:32:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:32:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:32:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:33:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:33:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:33:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:33:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:33:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:33:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:33:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:46 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:33:52 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:34:03 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:36:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:37:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:37:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:37:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:38:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:38:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:38:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:38:59 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:39:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:39:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:39:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/patient_list.php:77
+Stack trace:
+#0 /home/homeopat/public_html/lab/patient_list.php(77): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/patient_list.php on line 77
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:16 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/lab/category.php on line 90
+[03-Mar-2023 07:39:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:39:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:39:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:40:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:40:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 07:40:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/lab/index.php:48
+Stack trace:
+#0 /home/homeopat/public_html/lab/index.php(48): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/lab/index.php on line 48
+[03-Mar-2023 08:16:30 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[03-Mar-2023 08:16:30 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[04-Mar-2023 06:53:30 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[04-Mar-2023 06:53:30 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[06-Mar-2023 07:14:48 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[06-Mar-2023 07:14:48 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[06-Mar-2023 07:33:11 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[06-Mar-2023 07:33:11 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[06-Mar-2023 12:25:58 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[06-Mar-2023 12:25:58 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[06-Mar-2023 13:02:21 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[06-Mar-2023 13:02:21 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[07-Mar-2023 06:37:00 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[07-Mar-2023 06:37:00 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[07-Mar-2023 07:13:29 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[07-Mar-2023 07:13:29 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[12-Mar-2023 06:10:16 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[12-Mar-2023 06:10:16 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[12-Mar-2023 06:12:52 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[12-Mar-2023 06:12:52 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[12-Mar-2023 06:19:04 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[12-Mar-2023 06:19:07 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[12-Mar-2023 14:26:38 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[12-Mar-2023 14:26:38 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[12-Mar-2023 21:53:19 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[12-Mar-2023 21:53:20 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[12-Mar-2023 21:53:22 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Mar-2023 15:20:18 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[13-Mar-2023 15:20:18 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Mar-2023 22:24:50 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[14-Mar-2023 03:10:42 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[14-Mar-2023 03:10:42 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[15-Mar-2023 06:29:10 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[15-Mar-2023 06:29:10 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[15-Mar-2023 06:29:11 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[15-Mar-2023 06:29:13 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[15-Mar-2023 06:29:13 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[15-Mar-2023 06:29:14 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[19-Mar-2023 00:45:36 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[25-Mar-2023 03:51:05 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[25-Mar-2023 03:51:05 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[25-Mar-2023 03:51:11 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[25-Mar-2023 03:51:50 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/add_patient.php on line 7
+[25-Mar-2023 03:51:51 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[25-Mar-2023 03:57:40 UTC] PHP Warning:  Undefined array key "mid" in /home/homeopat/public_html/lab/remedy.php on line 24
+[25-Mar-2023 03:58:45 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/invoice.php on line 6
+[25-Mar-2023 03:58:46 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[25-Mar-2023 07:12:21 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/patient_list.php on line 8
+[25-Mar-2023 07:12:21 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[25-Mar-2023 07:12:25 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/patient_list.php on line 8
+[25-Mar-2023 07:12:25 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Apr-2023 13:53:32 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[13-Apr-2023 13:53:32 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Apr-2023 13:53:40 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[13-Apr-2023 13:53:41 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Apr-2023 14:51:19 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/remedy.php on line 8
+[13-Apr-2023 14:51:20 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Apr-2023 16:45:21 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/medicine_list.php on line 8
+[13-Apr-2023 16:45:22 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Apr-2023 19:22:02 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[13-Apr-2023 19:22:03 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[13-Apr-2023 19:28:49 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/patient_list.php on line 8
+[13-Apr-2023 19:28:49 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[16-Apr-2023 12:13:25 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[16-Apr-2023 12:13:25 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:26 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[18-Apr-2023 12:53:27 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:27 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:27 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:28 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:28 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:28 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:28 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:28 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:29 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:29 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:32 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:32 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:32 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:33 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:33 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:33 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:35 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:35 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:35 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:35 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:36 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:36 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:36 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:36 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:36 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:53:41 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 12:55:27 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[18-Apr-2023 12:55:27 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[18-Apr-2023 13:37:47 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[18-Apr-2023 13:37:47 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[23-Apr-2023 13:06:50 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[23-Apr-2023 13:06:51 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[23-Apr-2023 13:06:53 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[23-Apr-2023 13:06:54 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[23-Apr-2023 13:06:54 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[23-Apr-2023 13:06:55 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[23-Apr-2023 13:16:13 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[23-Apr-2023 13:16:14 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[23-Apr-2023 13:19:47 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/find_remdy.php on line 8
+[23-Apr-2023 13:19:48 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[24-Apr-2023 09:12:59 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/lab/index.php on line 8
+[24-Apr-2023 09:12:59 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/lab/logout.php on line 3
+[24-Apr-2023 09:13:24 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:24 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:24 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:26 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:26 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:26 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:27 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:27 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:27 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:27 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:27 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:27 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:28 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:28 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:28 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:28 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:28 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:28 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:29 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:29 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:29 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:40 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:40 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:40 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:57 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:13:57 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:13:57 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:02 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:14:02 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:02 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:23 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:14:23 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:23 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:24 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:14:24 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:24 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:54 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:14:54 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:54 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:55 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:14:55 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:55 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:56 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:14:56 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:14:56 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:15:12 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:15:12 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:15:12 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:12 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:12 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:12 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:28 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:28 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:28 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:39 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:39 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:39 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:48 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:48 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:48 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:56 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:56 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:56 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:57 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:57 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:57 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:58 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:58 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:58 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:59 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:16:59 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:16:59 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:00 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:00 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:00 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:00 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:00 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:00 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:04 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:04 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:04 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:08 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:08 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:08 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:20 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:20 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:20 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:40 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:40 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:40 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:44 UTC] PHP Warning:  Undefined array key "q2" in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:17:44 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:17:44 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 11
+[24-Apr-2023 09:31:51 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:31:51 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:31:53 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:31:53 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:32:13 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:32:13 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:46 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:46 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:53 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:53 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:54 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:54 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:55 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:55 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:59 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:33:59 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:07 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:07 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:12 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:12 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:18 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:18 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:20 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:20 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:23 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/lab/catstatus.php on line 3
+[24-Apr-2023 09:34:23 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/lab/catstatus.php on line 3
+[14-Sep-2023 20:32:31 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'homeopat'@'localhost' to database 'homeopat_test' in /home/homeopat/public_html/admin/server_connection.php on line 3
+[14-Sep-2023 20:32:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/homeopat/public_html/admin/subcategory.php:78
+Stack trace:
+#0 /home/homeopat/public_html/admin/subcategory.php(78): mysqli_query()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/subcategory.php on line 78
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:33:56 UTC] PHP Warning:  Undefined array key "status" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:14 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:37:17 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:49 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:51 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:38:52 UTC] PHP Warning:  Undefined array key "Active" in /home/homeopat/public_html/admin/category.php on line 90
+[14-Sep-2023 20:39:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/admin/remedy.php:96
+Stack trace:
+#0 /home/homeopat/public_html/admin/remedy.php(96): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/remedy.php on line 96
+[14-Sep-2023 20:41:07 UTC] PHP Warning:  include(serverconnect.php): Failed to open stream: No such file or directory in /home/homeopat/public_html/admin/catstatus.php on line 3
+[14-Sep-2023 20:41:07 UTC] PHP Warning:  include(): Failed opening 'serverconnect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/homeopat/public_html/admin/catstatus.php on line 3
+[14-Sep-2023 20:52:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/admin/remedy.php:96
+Stack trace:
+#0 /home/homeopat/public_html/admin/remedy.php(96): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/remedy.php on line 96
+[14-Sep-2023 20:58:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/admin/remedy.php:96
+Stack trace:
+#0 /home/homeopat/public_html/admin/remedy.php(96): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/remedy.php on line 96
+[14-Sep-2023 20:58:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/homeopat/public_html/admin/remedy.php:96
+Stack trace:
+#0 /home/homeopat/public_html/admin/remedy.php(96): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/remedy.php on line 96
+[18-Sep-2023 09:25:20 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[18-Sep-2023 09:25:21 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[19-Sep-2023 11:37:33 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[19-Sep-2023 11:37:33 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[19-Sep-2023 11:39:49 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[19-Sep-2023 11:39:49 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[19-Sep-2023 13:28:51 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/category.php on line 7
+[19-Sep-2023 13:28:51 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[19-Sep-2023 13:28:52 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/subcategory.php on line 8
+[19-Sep-2023 13:28:52 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[19-Sep-2023 18:15:54 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[19-Sep-2023 18:15:54 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[20-Sep-2023 07:27:07 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[20-Sep-2023 07:27:07 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[20-Sep-2023 10:25:06 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/medicine_list.php on line 8
+[20-Sep-2023 10:25:06 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[20-Sep-2023 12:28:20 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/add_patient.php on line 7
+[20-Sep-2023 12:28:21 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[20-Sep-2023 13:56:09 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[20-Sep-2023 13:56:09 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[22-Sep-2023 10:22:15 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[22-Sep-2023 10:22:15 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[22-Sep-2023 10:29:34 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/patient_list.php on line 8
+[22-Sep-2023 10:29:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 09:17:56 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 09:17:56 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 09:59:11 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 09:59:11 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 10:01:35 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 10:01:35 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 10:01:56 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 10:01:57 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 10:05:06 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 10:05:06 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 10:05:08 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/medicine_list.php on line 8
+[25-Sep-2023 10:05:08 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 10:09:40 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 10:09:40 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 10:55:22 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 10:55:22 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[25-Sep-2023 11:06:36 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[25-Sep-2023 11:06:36 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[26-Sep-2023 10:59:40 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Sep-2023 10:59:40 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[26-Sep-2023 12:01:34 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Sep-2023 12:01:34 UTC] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 3
+[26-Sep-2023 12:01:49 UTC] PHP Warning:  Undefined array key "logoutTime" in /home/homeopat/public_html/admin/userlog.php on line 69
+[26-Sep-2023 17:38:24 Asia/Kolkata] PHP Warning:  Undefined variable $row in /home/homeopat/public_html/admin/logout.php on line 20
+[26-Sep-2023 17:38:24 Asia/Kolkata] PHP Warning:  Undefined variable $res in /home/homeopat/public_html/admin/logout.php on line 26
+[26-Sep-2023 17:38:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/homeopat/public_html/admin/logout.php:26
+Stack trace:
+#0 /home/homeopat/public_html/admin/logout.php(26): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/homeopat/public_html/admin/logout.php on line 26
+[27-Sep-2023 00:51:38 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[27-Sep-2023 06:21:38 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[27-Sep-2023 06:21:38 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[27-Sep-2023 06:21:38 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[27-Sep-2023 03:04:30 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[27-Sep-2023 08:34:31 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[27-Sep-2023 08:34:31 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[27-Sep-2023 08:34:31 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[28-Sep-2023 00:04:32 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[28-Sep-2023 05:34:33 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[28-Sep-2023 05:34:33 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[28-Sep-2023 05:34:33 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[28-Sep-2023 19:08:11 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[29-Sep-2023 00:38:12 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Sep-2023 00:38:12 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Sep-2023 00:38:12 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[29-Sep-2023 15:49:36 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[29-Sep-2023 21:19:36 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Sep-2023 21:19:36 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Sep-2023 21:19:36 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[29-Sep-2023 15:56:08 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/userlog.php on line 7
+[29-Sep-2023 15:56:08 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/userlog.php on line 57
+[29-Sep-2023 21:26:08 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Sep-2023 21:26:08 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Sep-2023 21:26:08 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[29-Sep-2023 15:59:12 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[29-Sep-2023 21:29:12 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Sep-2023 21:29:12 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Sep-2023 21:29:12 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[29-Sep-2023 21:30:13 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Sep-2023 21:30:13 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Sep-2023 21:30:13 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[29-Sep-2023 16:03:31 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[29-Sep-2023 21:33:31 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 11
+[29-Sep-2023 21:33:54 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 11
+[29-Sep-2023 16:08:01 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[29-Sep-2023 21:38:01 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Sep-2023 21:38:01 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Sep-2023 21:38:01 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[01-Oct-2023 03:42:17 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[01-Oct-2023 09:12:17 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[01-Oct-2023 09:12:17 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[01-Oct-2023 09:12:17 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[01-Oct-2023 08:54:52 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[01-Oct-2023 14:24:52 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[01-Oct-2023 14:24:52 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[01-Oct-2023 14:24:52 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[01-Oct-2023 09:22:30 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[01-Oct-2023 14:52:30 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[01-Oct-2023 14:52:30 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[01-Oct-2023 14:52:30 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[01-Oct-2023 09:43:19 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[01-Oct-2023 15:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[01-Oct-2023 15:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[01-Oct-2023 15:13:19 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[01-Oct-2023 22:10:36 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[01-Oct-2023 22:10:36 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[01-Oct-2023 22:10:36 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[02-Oct-2023 13:11:42 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[02-Oct-2023 13:11:42 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[02-Oct-2023 13:11:42 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[02-Oct-2023 09:55:16 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[02-Oct-2023 15:25:17 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[02-Oct-2023 15:25:17 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[02-Oct-2023 15:25:17 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[03-Oct-2023 05:26:25 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[03-Oct-2023 10:56:46 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[03-Oct-2023 10:56:46 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[03-Oct-2023 10:56:46 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[04-Oct-2023 03:26:54 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[04-Oct-2023 08:56:55 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[04-Oct-2023 08:56:55 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[04-Oct-2023 08:56:55 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[04-Oct-2023 06:28:40 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[04-Oct-2023 11:58:41 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[04-Oct-2023 11:58:41 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[04-Oct-2023 11:58:41 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[04-Oct-2023 16:11:01 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[04-Oct-2023 21:41:02 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[04-Oct-2023 21:41:02 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[04-Oct-2023 21:41:02 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[09-Oct-2023 22:59:09 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[10-Oct-2023 04:29:09 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[10-Oct-2023 04:29:09 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[10-Oct-2023 04:29:09 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[12-Oct-2023 04:08:01 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[12-Oct-2023 09:38:02 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[12-Oct-2023 09:38:02 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[12-Oct-2023 09:38:02 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[13-Oct-2023 23:02:59 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[13-Oct-2023 23:02:59 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[13-Oct-2023 23:02:59 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[13-Oct-2023 17:53:23 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[13-Oct-2023 23:23:24 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[13-Oct-2023 23:23:24 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[13-Oct-2023 23:23:24 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[13-Oct-2023 17:54:23 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[13-Oct-2023 23:24:24 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[13-Oct-2023 23:24:24 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[13-Oct-2023 23:24:24 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[14-Oct-2023 15:34:22 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[14-Oct-2023 15:34:22 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[14-Oct-2023 15:34:22 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[16-Oct-2023 19:24:59 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[17-Oct-2023 00:55:00 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[17-Oct-2023 00:55:00 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[17-Oct-2023 00:55:00 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[18-Oct-2023 19:29:51 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[19-Oct-2023 00:59:51 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[19-Oct-2023 00:59:51 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[19-Oct-2023 00:59:51 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[23-Oct-2023 07:28:08 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[23-Oct-2023 12:58:10 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[23-Oct-2023 12:58:10 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[23-Oct-2023 12:58:10 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[24-Oct-2023 13:25:50 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[24-Oct-2023 18:55:52 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[24-Oct-2023 18:55:52 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[24-Oct-2023 18:55:52 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[25-Oct-2023 22:59:21 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Oct-2023 04:29:22 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 04:29:22 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 04:29:22 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 04:07:48 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Oct-2023 09:37:48 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 09:37:48 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 09:37:48 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 04:22:57 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/find_remdy.php on line 8
+[26-Oct-2023 09:52:57 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 09:52:57 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 09:52:57 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 04:24:06 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/simtoms.php on line 8
+[26-Oct-2023 09:54:06 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 09:54:06 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 09:54:06 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 07:41:48 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Oct-2023 13:11:48 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 13:11:48 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 13:11:48 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 07:41:51 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Oct-2023 13:11:53 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 13:11:53 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 13:11:53 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 07:41:55 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Oct-2023 13:11:57 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 13:11:57 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 13:11:57 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[26-Oct-2023 07:53:25 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[26-Oct-2023 13:23:26 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[26-Oct-2023 13:23:26 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[26-Oct-2023 13:23:26 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[28-Oct-2023 08:38:31 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[28-Oct-2023 14:08:32 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[28-Oct-2023 14:08:32 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[28-Oct-2023 14:08:32 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[28-Oct-2023 20:42:55 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[29-Oct-2023 02:12:55 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[29-Oct-2023 02:12:55 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[29-Oct-2023 02:12:55 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[30-Oct-2023 03:27:04 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[30-Oct-2023 08:57:04 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[30-Oct-2023 08:57:04 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[30-Oct-2023 08:57:04 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[01-Nov-2023 23:02:57 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[02-Nov-2023 04:32:58 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[02-Nov-2023 04:32:58 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[02-Nov-2023 04:32:58 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[03-Nov-2023 02:46:32 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[03-Nov-2023 08:16:35 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[03-Nov-2023 08:16:35 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[03-Nov-2023 08:16:35 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[03-Nov-2023 20:09:46 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[04-Nov-2023 01:39:47 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[04-Nov-2023 01:39:47 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[04-Nov-2023 01:39:47 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[04-Nov-2023 20:47:15 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[05-Nov-2023 02:17:17 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[05-Nov-2023 02:17:17 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[05-Nov-2023 02:17:17 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[05-Nov-2023 16:54:34 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[05-Nov-2023 22:24:34 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[05-Nov-2023 22:24:34 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[05-Nov-2023 22:24:34 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[06-Nov-2023 17:42:28 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[06-Nov-2023 23:12:29 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[06-Nov-2023 23:12:29 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[06-Nov-2023 23:12:29 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[07-Nov-2023 13:58:26 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[07-Nov-2023 19:28:27 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[07-Nov-2023 19:28:27 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[07-Nov-2023 19:28:27 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[08-Nov-2023 14:43:51 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[08-Nov-2023 20:13:51 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[08-Nov-2023 20:13:51 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[08-Nov-2023 20:13:51 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[13-Nov-2023 12:56:25 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[13-Nov-2023 18:26:26 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[13-Nov-2023 18:26:26 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[13-Nov-2023 18:26:26 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[18-Nov-2023 13:39:45 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/index.php on line 8
+[18-Nov-2023 19:09:45 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[18-Nov-2023 19:09:45 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[18-Nov-2023 19:09:45 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
+[18-Nov-2023 15:24:26 UTC] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/simtoms.php on line 8
+[18-Nov-2023 20:54:27 Asia/Kolkata] PHP Warning:  Undefined array key "login" in /home/homeopat/public_html/admin/logout.php on line 7
+[18-Nov-2023 20:54:27 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 8
+[18-Nov-2023 20:54:27 Asia/Kolkata] PHP Warning:  Undefined array key "id" in /home/homeopat/public_html/admin/logout.php on line 12
